@@ -14,5 +14,5 @@ To run the app locally, you should first have `yarn` installed. Afterwards, foll
 ### Stuff used to make this:
 
  * [recompose](https://github.com/acdlite/recompose) for React helpers.
- * [styled-components](http://codemirror.net/) for awesome inline styling, and much more.
- * [githuh-pages](https://pages.github.com/) for ease of deployment.
+ * [styled-components](https://www.styled-components.com/) for awesome inline styling, and much more.
+ * [github-pages](https://pages.github.com/) for ease of deployment.
