@@ -9,6 +9,7 @@ To run the app locally, you should first have `yarn` installed. Afterwards, foll
  * Run `yarn` to download all the right packages.
  * Run `yarn start` to start the application.
 
+[Most of the code for review is here.](https://github.com/jeolim/istream-code-challenge/tree/master/src)
 
 ### Stuff used to make this:
 
