@@ -1,7 +1,4 @@
-import React, { Component } from 'react';
-import FetchButton from './components/button/Fetch/Fetch.Component';
+import FetchComponent from './components/FetchComponent';
 import './App.css';
 
-export default function ()  {
-  return <FetchButton />;
-}
+export default FetchComponent;
